@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: blue;
+}
+h3{
+    margin-top: 0;
+    font-size: 30px;
+    box-shadow: 5px 5px 5px red;
+    padding: 25px 10px;
+}
+footer{
+    background: yellow;
+    width: 100%;
+    color: rgb(255, 47, 47);
+    position: fixed;
+    bottom: 0;
+}
